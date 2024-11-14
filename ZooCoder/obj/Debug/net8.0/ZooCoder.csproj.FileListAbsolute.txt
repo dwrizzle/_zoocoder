@@ -55,3 +55,15 @@
 /workspaces/ZooCoder9/ZooCoder/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /workspaces/ZooCoder9/ZooCoder/obj/Debug/net8.0/ZooCoder.csproj.AssemblyReference.cache
 /workspaces/ZooCoder9/ZooCoder/obj/Debug/net8.0/ZooCoder.csproj.Up2Date
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.csproj.AssemblyReference.cache
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.AssemblyInfoInputs.cache
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.AssemblyInfo.cs
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.csproj.CoreCompileInputs.cache
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.RazorAssemblyInfo.cache
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.RazorAssemblyInfo.cs
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.sourcelink.json
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.dll
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/refint/ZooCoder.dll
+/workspaces/_zoocoder/ZooCoder/obj/Debug/net8.0/ZooCoder.pdb

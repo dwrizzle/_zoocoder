@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j9GyxD8/lKY=",
+  "dgSpecHash": "w2zVnlj1eFg=",
   "success": true,
-  "projectFilePath": "/workspaces/ZooCoder9/ZooCoder/ZooCoder.csproj",
+  "projectFilePath": "/workspaces/_zoocoder/ZooCoder/ZooCoder.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.data.sqlite/8.0.6/microsoft.data.sqlite.8.0.6.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.data.sqlite.core/8.0.6/microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
